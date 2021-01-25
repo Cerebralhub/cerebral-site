@@ -2046,7 +2046,7 @@ input::-moz-focus-inner {
   position: relative;
 }
 
-.home-content__video .video-icon {
+/* .home-content__video .video-icon {
   display: inline-block;
   height: 8.4rem;
   width: 8.4rem;
@@ -2058,7 +2058,7 @@ input::-moz-focus-inner {
   background-size: 24px 27px;
   -webkit-transition: background-color 0.3s ease-in-out;
   transition: background-color 0.3s ease-in-out;
-}
+} */
 
 .home-content__video .video-text {
   display: inline-block;
