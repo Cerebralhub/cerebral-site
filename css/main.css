@@ -3641,7 +3641,7 @@ html.no-csstransitions .home-content__main {
  * ------------------------------------------------------------------- */
 .mc-form {
   margin-top: 2.1rem;
-  width: 50%;
+  width: 100%;
   position: relative;
   margin: auto;
 }
